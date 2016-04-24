@@ -1,3 +1,13 @@
-puts "hi"
-puts "hello hello"
-puts "hola" 
+def say_hello
+	puts "Hello"
+end
+
+say_hello
+
+
+
+
+
+
+
+
